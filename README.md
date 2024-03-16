@@ -21,3 +21,9 @@ Dataset Description
     "wild":14
 }
 ```
+
+## How to run the program
+
+```
+python main.py
+```
